@@ -1,0 +1,38 @@
+.material-icons {
+	vertical-align: middle;
+}
+.container-fluid{
+	padding-top: 20px;
+	padding-bottom: 80px;
+}
+.searchBar{
+	padding-top: 80px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-image: url(https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+	height: 400px;
+	width: 100%;
+	display: inline-block;
+}
+.heart:hover
+{      
+    color:red;
+	cursor: pointer;
+}
+.col-sm-3{
+	padding: 10px;
+}
+form{
+	margin-top: 80px;
+}
+.message{
+	color: red;
+}
+.success-message{
+	background-color: #E1FFF1;
+	padding: 15px;
+	margin-top:80px;
+}
+.container{
+	margin-top: 80px;
+}
