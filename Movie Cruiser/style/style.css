@@ -1,0 +1,58 @@
+body{
+    min-height: 100vh;
+}
+
+.searchBar{
+	padding-top: 80px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-image: url(https://images.unsplash.com/photo-1568876694728-451bbf694b83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80);
+	height: 400px;
+	width: 100%;
+	display: inline-block;
+}
+
+.container{
+	margin-top: 80px;
+}
+
+.container-fluid{
+	padding-top: 20px;
+	padding-bottom: 80px;
+}
+
+footer{
+    margin-top: 10px!important;
+    background-color: rgb(38, 66, 117);
+    min-height: 10vh;
+}
+section.alone{
+    min-height: 80vh;
+}
+
+.card-img-top{
+	height: 300px;
+}
+#movie-language .active{
+	color : white;
+}
+
+.badge-active{
+    color: white;
+    background-color: green;
+}
+.badge-inactive{
+    background-color: red;
+    color: white;
+}
+.heart:hover
+{      
+    color:red;
+	cursor: pointer;
+}
+.material-icons {
+	vertical-align: middle;
+}
+.col-sm-3{
+	padding: 10px;
+}
